@@ -11,5 +11,8 @@
  |___|   |_______| |___| |_______|_______|___|_|  |__|___|_______|  / / / /
  ==================================================================/_/_/_/
 
-:: Built with Spring Boot :: ${spring-boot.version} trigger the beast...
+:: Built with Spring Boot :: ${spring-boot.version}
+
+TESTING KPACK CONCOURSE RESOURCE....................
+.
 
